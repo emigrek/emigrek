@@ -1,4 +1,4 @@
-Hi 👋 My name is Karol Janasz
+Hi 👋 My name is Karol
 =============================
 
 * 🌍  I'm based in Poland
